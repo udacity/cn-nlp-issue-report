@@ -1,4 +1,4 @@
-# cn-dlnd-issue-reports
+# cn-nlp-issue-reports
 # 如何提供反馈（Issue）
 
 ### 创建Issue
